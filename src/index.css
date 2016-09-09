@@ -7,3 +7,20 @@ body {
 .home-btn {
     margin: 5px;
 }
+
+.page-header {
+    padding: 0px 20px;
+}
+
+.search-form {
+    margin-bottom: 20px;
+}
+
+.clear-btn {
+    margin-left: 10px;
+}
+
+.list {
+    max-height: 475px;
+    overflow: auto;
+}
